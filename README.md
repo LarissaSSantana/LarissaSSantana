@@ -21,6 +21,10 @@ In addition to programming, I love Design and sometimes illustrate in my spare t
 -->
 
 ### Hello, World! :D
-Sou uma estudante de desenvolvimento web e me considero super detalhista e organizada com minhas criações. :P
-Atualmente estou focada em aprimorar meu conhecimento ligado à tecnologias aplicadas ao Front-End com prioridade em JavaScript (e suas bibliotecas) e UI Design, porém meu próximo objetivo (e sonho) é me tornar uma dev Full-Stacks. Para isso estou trabalhando em projetos pessoais para construir um portfólio rico e bem estruturado.
-Em adição a programação, as vezes eu produzo ilustrações no meu tempo livre. ^-^
+Sou uma estudante de desenvolvimento web. :)
+
+<br/> > Atualmente estou focada em aprimorar meu conhecimento ligado à tecnologias aplicadas ao Front-End com prioridade em JavaScript (e suas bibliotecas) e UI Design.
+<br/> > Meu próximo objetivo (e sonho) é me tornar uma dev Full-Stacks.
+<br/> > Atualmente trabalhando em projetos pessoais para construir um portfólio rico e bem estruturado.
+<br/> > Me considero super detalhista e organizada com minhas criações. Porém estou sempre aberta a sugestões! :P
+<br/> > Em adição a programação, às vezes produzo ilustrações no meu tempo livre. ^-^
