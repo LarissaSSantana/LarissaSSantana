@@ -11,11 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### Hey 👋
 
 My name is Larissa and I am a student of web development!
-I am currently focused on learning web front-end focusing on UI Design and JavaScript (and their libraries). 
+I am currently focused on learning front-end focusing on UI Design and JavaScript (and their libraries). 
 I am working on personal projects to develop a rich and well-structured portfolio. 
 In addition to programming, I love Design and sometimes illustrate in my spare time.
+-->
+
+### Hey 👋
+Sou uma estudante de desenvolvimento web e me considero super detalhista e organizada com minhas criações. :P
+Atualmente estou focada em aprimorar meu conhecimento ligado à tecnologias aplicadas ao Front-End com prioridade em JavaScript (e suas bibliotecas) e UI Design, porém meu próximo objetivo (e sonho) é me tornar uma dev Full-Stacks. Para isso estou trabalhando em projetos pessoais para construir um portfólio rico e bem estruturado.
+Em adição a programação, as vezes eu produzo ilustrações no meu tempo livre. ^-^
