@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LarissaSSantana/LarissaSSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey 👋
+
+My name is Larissa and I am a student of web development!
+I am currently focused on learning web front-end focusing on UI Design and JavaScript (and their libraries). 
+I am working on personal projects to develop a rich and well-structured portfolio. 
+In addition to programming, I love Design and sometimes illustrate in my spare time.
